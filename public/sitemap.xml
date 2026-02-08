@@ -12,58 +12,10 @@
     <lastmod>2026-02-01T22:06:00.952Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Blog/Training-a-neural-network</loc>
-    <lastmod>2026-02-08T23:02:30.952Z</lastmod>
+    <lastmod>2026-02-08T23:46:31.127Z</lastmod>
   </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/2025-10-27</loc>
-    <lastmod>2026-01-12T13:01:36.542Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/2025-11-04</loc>
-    <lastmod>2026-01-12T12:54:26.679Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/2025-11-11</loc>
-    <lastmod>2026-01-12T12:56:06.865Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/2025-11-23</loc>
-    <lastmod>2026-01-12T13:00:14.491Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/2025-11-24</loc>
-    <lastmod>2025-11-24T14:32:34.457Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/2025-11-25</loc>
-    <lastmod>2026-01-12T13:01:55.476Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/2025-12-09</loc>
-    <lastmod>2026-01-12T13:01:14.798Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/2026-01-19</loc>
-    <lastmod>2026-01-19T20:17:55.740Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Adagrad</loc>
-    <lastmod>2026-01-30T15:09:19.718Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Adam-optimizer</loc>
-    <lastmod>2026-01-30T15:09:49.462Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Backpropagation</loc>
-    <lastmod>2026-02-01T11:36:55.207Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Bijection</loc>
+    <loc>https://vojtechtoth.github.io/Vault/Calculus/Bijection</loc>
     <lastmod>2026-01-12T14:37:38.363Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Central-limit-theorem</loc>
-    <lastmod>2026-01-15T13:11:37.966Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Consistent-hashing</loc>
-    <lastmod>2025-10-13T19:12:24.531Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Convergence-of-random-variables</loc>
-    <lastmod>2026-01-25T12:39:47.532Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Definice</loc>
-    <lastmod>2026-01-11T17:35:42.224Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Distribution-free-PAC-lower-bound</loc>
-    <lastmod>2026-01-28T14:30:49.672Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Empirical-risk-minimization</loc>
     <lastmod>2026-01-28T13:05:12.592Z</lastmod>
@@ -85,6 +37,9 @@
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/NoSQL-datab%C3%A1ze/Consistency</loc>
     <lastmod>2026-01-12T12:53:10.309Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/NoSQL-datab%C3%A1ze/Consistent-hashing</loc>
+    <lastmod>2025-10-13T19:12:24.531Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/NoSQL-datab%C3%A1ze/Distribution-model</loc>
     <lastmod>2025-10-13T18:25:44.009Z</lastmod>
@@ -130,6 +85,9 @@
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Pokro%C4%8Dil%C3%A1-algoritmizace/Combinatorics/Permutations-ranking</loc>
     <lastmod>2026-01-12T16:02:17.093Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Pokro%C4%8Dil%C3%A1-algoritmizace/Combinatorics/Ranking-function</loc>
+    <lastmod>2026-01-12T14:45:04.658Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Pokro%C4%8Dil%C3%A1-algoritmizace/Combinatorics/Subset-Ranking</loc>
     <lastmod>2026-01-12T16:12:48.214Z</lastmod>
@@ -215,29 +173,50 @@
     <loc>https://vojtechtoth.github.io/Vault/Pokro%C4%8Dil%C3%A1-algoritmizace/Vyhled%C3%A1vac%C3%AD-stromy/Search-trees</loc>
     <lastmod>2026-01-10T21:26:44.213Z</lastmod>
   </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Population-mean</loc>
-    <lastmod>2026-01-23T19:12:37.195Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Prediciton-error</loc>
-    <lastmod>2026-01-26T01:37:50.815Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/RMSProp</loc>
-    <lastmod>2026-01-30T15:09:30.443Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Ranking-function</loc>
-    <lastmod>2026-01-12T14:45:04.658Z</lastmod>
-  </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Rationalism</loc>
     <lastmod>2026-01-19T20:51:32.164Z</lastmod>
   </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Stackelberg-equilibrium</loc>
-    <lastmod>2026-01-20T21:18:40.832Z</lastmod>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/2025-11-04</loc>
+    <lastmod>2026-01-12T12:54:26.679Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/2025-11-11</loc>
+    <lastmod>2026-01-12T12:56:06.865Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/2025-11-23</loc>
+    <lastmod>2026-01-12T13:00:14.491Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Adagrad</loc>
+    <lastmod>2026-01-30T15:09:19.718Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Adam-optimizer</loc>
+    <lastmod>2026-01-30T15:09:49.462Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Backpropagation</loc>
+    <lastmod>2026-02-01T11:36:55.207Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Distribution-free-PAC-lower-bound</loc>
+    <lastmod>2026-01-28T14:30:49.672Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Hoeffding-inequality</loc>
     <lastmod>2026-01-12T12:58:56.469Z</lastmod>
   </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Prediciton-error</loc>
+    <lastmod>2026-01-26T01:37:50.815Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/RMSProp</loc>
+    <lastmod>2026-01-30T15:09:30.443Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Stochastic-Gradient-Descent</loc>
+    <lastmod>2026-01-30T13:54:03.994Z</lastmod>
+  </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Untitled</loc>
     <lastmod>2025-10-07T10:46:08.176Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/successful-PAC-learner</loc>
+    <lastmod>2026-01-28T13:46:19.462Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistick%C3%A1-anal%C3%BDza-dat/2025-10-27</loc>
+    <lastmod>2026-01-12T13:01:36.542Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Statistick%C3%A1-anal%C3%BDza-dat/Lec3</loc>
     <lastmod>2026-01-12T12:59:07.482Z</lastmod>
@@ -245,14 +224,20 @@
     <loc>https://vojtechtoth.github.io/Vault/Statistick%C3%A1-anal%C3%BDza-dat/Lecture-2</loc>
     <lastmod>2026-01-12T12:56:30.001Z</lastmod>
   </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Stochastic-Gradient-Descent</loc>
-    <lastmod>2026-01-30T13:54:03.994Z</lastmod>
+    <loc>https://vojtechtoth.github.io/Vault/Statistics/Central-limit-theorem</loc>
+    <lastmod>2026-01-15T13:11:37.966Z</lastmod>
   </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Unbiased-etimator</loc>
+    <loc>https://vojtechtoth.github.io/Vault/Statistics/Convergence-of-random-variables</loc>
+    <lastmod>2026-01-25T12:39:47.532Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistics/Population-mean</loc>
+    <lastmod>2026-01-23T19:12:37.195Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Statistics/Unbiased-etimator</loc>
     <lastmod>2026-01-26T19:51:35.803Z</lastmod>
   </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/Untitled</loc>
-    <lastmod>2026-02-08T20:49:01.048Z</lastmod>
+    <loc>https://vojtechtoth.github.io/Vault/Statistics/converges-in-probability</loc>
+    <lastmod>2026-01-23T20:51:30.548Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/V%C3%BDpo%C4%8Detn%C3%AD-teorie-her/Algorithms/Double-oracle</loc>
     <lastmod>2026-01-20T12:38:11.088Z</lastmod>
@@ -271,6 +256,9 @@
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/V%C3%BDpo%C4%8Detn%C3%AD-teorie-her/Cooperation-games/Voting-games/Voting-game</loc>
     <lastmod>2026-01-18T21:12:55.612Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/V%C3%BDpo%C4%8Detn%C3%AD-teorie-her/Definice</loc>
+    <lastmod>2026-01-11T17:35:42.224Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/V%C3%BDpo%C4%8Detn%C3%AD-teorie-her/Equilibria/Best-response</loc>
     <lastmod>2026-01-20T10:37:16.834Z</lastmod>
@@ -317,6 +305,9 @@
     <loc>https://vojtechtoth.github.io/Vault/V%C3%BDpo%C4%8Detn%C3%AD-teorie-her/Pure-math/Support</loc>
     <lastmod>2026-01-20T11:21:17.317Z</lastmod>
   </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/V%C3%BDpo%C4%8Detn%C3%AD-teorie-her/Stackelberg-equilibrium</loc>
+    <lastmod>2026-01-20T21:18:40.832Z</lastmod>
+  </url><url>
     <loc>https://vojtechtoth.github.io/Vault/V%C3%BDpo%C4%8Detn%C3%AD-teorie-her/Strategic-games/Normal-form-game</loc>
     <lastmod>2026-01-20T12:02:05.356Z</lastmod>
   </url><url>
@@ -335,14 +326,8 @@
     <loc>https://vojtechtoth.github.io/Vault/V%C3%BDpo%C4%8Detn%C3%AD-teorie-her/Strategies/Pure-strategy</loc>
     <lastmod>2026-01-19T22:06:15.861Z</lastmod>
   </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/converges-in-probability</loc>
-    <lastmod>2026-01-23T20:51:30.548Z</lastmod>
-  </url><url>
     <loc>https://vojtechtoth.github.io/Vault/</loc>
     <lastmod>2026-02-08T22:51:13.964Z</lastmod>
-  </url><url>
-    <loc>https://vojtechtoth.github.io/Vault/successful-PAC-learner</loc>
-    <lastmod>2026-01-28T13:46:19.462Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/</loc>
     <lastmod>2026-02-08T22:08:27.000Z</lastmod>
