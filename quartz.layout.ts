@@ -80,7 +80,7 @@ export const defaultContentPageLayout: PageLayout = {
         title: "Latest Posts",
         limit: 10,
         filter: (f) => {
-          return f.slug?.startsWith("Blog/") ?? false
+          return f.slug?.startsWith("Blog/Posts/") ?? false
         },
       }),
       condition: (page) => page.fileData.slug === "index",
