@@ -6,65 +6,65 @@
       <description>Last 10 notes on Vojtěch Tóth</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Training a neural network</title>
-    <link>https://vojtechtoth.github.io/Blog/Training-a-neural-network</link>
-    <guid>https://vojtechtoth.github.io/Blog/Training-a-neural-network</guid>
-    <description><![CDATA[ Stochastic gradient descent(SGD) is the fundamental algorithm for training an artificial neural network(ANN). ]]></description>
-    <pubDate>Sun, 08 Feb 2026 23:46:31 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://vojtechtoth.github.io/Vault/</link>
-    <guid>https://vojtechtoth.github.io/Vault/</guid>
-    <description><![CDATA[ Vault containing my university notes. ]]></description>
-    <pubDate>Sun, 08 Feb 2026 22:51:13 GMT</pubDate>
-  </item><item>
     <title>Welcome to My Blog</title>
     <link>https://vojtechtoth.github.io/</link>
     <guid>https://vojtechtoth.github.io/</guid>
-    <description><![CDATA[ Welcome My name is Vojtěch Tóth and this is my personal web page. ]]></description>
-    <pubDate>Sun, 08 Feb 2026 22:08:27 GMT</pubDate>
+    <description><![CDATA[ Welcome About Me My name is Vojtěch Tóth and this is my personal web page. ]]></description>
+    <pubDate>Sat, 14 Feb 2026 14:59:18 GMT</pubDate>
   </item><item>
-    <title>Implementing MSE</title>
-    <link>https://vojtechtoth.github.io/Blog/Implementing-MSE</link>
-    <guid>https://vojtechtoth.github.io/Blog/Implementing-MSE</guid>
-    <description><![CDATA[ Mean square error is defined as \text{MSE}(Y, \hat Y) = \frac{1}{n} \sum^{n}_{i = 1}{(Y_i - \hat Y_i)^2}, where both Y and \hat Y is a 1D array of values. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 20:23:38 GMT</pubDate>
-  </item><item>
-    <title>Implementing activation functions</title>
-    <link>https://vojtechtoth.github.io/Blog/Implementing-activation-functions</link>
-    <guid>https://vojtechtoth.github.io/Blog/Implementing-activation-functions</guid>
-    <description><![CDATA[ ReLU Rectified Linear unit is the most basic activation function. ]]></description>
-    <pubDate>Mon, 02 Feb 2026 22:34:30 GMT</pubDate>
-  </item><item>
-    <title>Implementing linear layer</title>
-    <link>https://vojtechtoth.github.io/Blog/Implementing-linear-layer</link>
-    <guid>https://vojtechtoth.github.io/Blog/Implementing-linear-layer</guid>
-    <description><![CDATA[ Linear layer in artificial neural networks is an implementation of y^T = x^TW + b^T,where y \in \mathbb{R}^{\text{n\_outputs} \times 1} is the layers output, x \in \mathbb{R}^{\text{n\_inputs} \times 1} is an input vector, W \in \mathbb{R}^{\text{n\_inputs} \times \text{n\_outputs}} is the weight ma... ]]></description>
-    <pubDate>Sun, 01 Feb 2026 23:02:22 GMT</pubDate>
-  </item><item>
-    <title>More ways to train a neural network</title>
-    <link>https://vojtechtoth.github.io/Blog/More-ways-to-train-a-neural-network</link>
-    <guid>https://vojtechtoth.github.io/Blog/More-ways-to-train-a-neural-network</guid>
-    <description><![CDATA[ About Adam,. ]]></description>
-    <pubDate>Sun, 01 Feb 2026 22:06:00 GMT</pubDate>
-  </item><item>
-    <title>Backpropagation</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Backpropagation</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Backpropagation</guid>
+    <title>Adagrad</title>
+    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Neural-networks/Adagrad</link>
+    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Neural-networks/Adagrad</guid>
     <description><![CDATA[ SSU. ]]></description>
-    <pubDate>Sun, 01 Feb 2026 11:36:55 GMT</pubDate>
+    <pubDate>Sat, 14 Feb 2026 09:40:36 GMT</pubDate>
   </item><item>
-    <title>Gradient descent</title>
-    <link>https://vojtechtoth.github.io/Vault/Gradient-descent</link>
-    <guid>https://vojtechtoth.github.io/Vault/Gradient-descent</guid>
-    <description><![CDATA[ SSU | [GD] Optimization algorithm solving solving \text{argmin}_{\theta}\space \mathcal{L}(\theta) by moving through the parameter space steps given by the gradient. ]]></description>
-    <pubDate>Fri, 30 Jan 2026 15:29:09 GMT</pubDate>
+    <title>Injective, Surjective, Bijective</title>
+    <link>https://vojtechtoth.github.io/Vault/Calculus/Injective,-Surjective,-Bijective</link>
+    <guid>https://vojtechtoth.github.io/Vault/Calculus/Injective,-Surjective,-Bijective</guid>
+    <description><![CDATA[ math [Bijection], [Surjection], [Injection] Function f(x): A \rightarrow B is called surjective, when (\forall y \in B)(\exists x \in A)(f(x) = y) Surjectivity means that “every image y has at least one pre-image x“. ]]></description>
+    <pubDate>Sat, 14 Feb 2026 09:38:24 GMT</pubDate>
   </item><item>
-    <title>Adam optimizer</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Adam-optimizer</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Adam-optimizer</guid>
-    <description><![CDATA[ SSU. ]]></description>
-    <pubDate>Fri, 30 Jan 2026 15:09:49 GMT</pubDate>
+    <title>Ranking function</title>
+    <link>https://vojtechtoth.github.io/Vault/Pokro%C4%8Dil%C3%A1-algoritmizace/Combinatorics/Ranking-function</link>
+    <guid>https://vojtechtoth.github.io/Vault/Pokro%C4%8Dil%C3%A1-algoritmizace/Combinatorics/Ranking-function</guid>
+    <description><![CDATA[ Definice math A bijection assigning unique number to each element of set S. ]]></description>
+    <pubDate>Fri, 13 Feb 2026 22:41:16 GMT</pubDate>
+  </item><item>
+    <title>Untitled</title>
+    <link>https://vojtechtoth.github.io/Vault/Statistical-data-analysis/Untitled</link>
+    <guid>https://vojtechtoth.github.io/Vault/Statistical-data-analysis/Untitled</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 13 Feb 2026 22:14:31 GMT</pubDate>
+  </item><item>
+    <title>kernel SVM</title>
+    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Support-vector-machines/kernel-SVM</link>
+    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Support-vector-machines/kernel-SVM</guid>
+    <description><![CDATA[ SSU In its base form, SVM creates a linear bound. ]]></description>
+    <pubDate>Wed, 11 Feb 2026 11:18:06 GMT</pubDate>
+  </item><item>
+    <title>SVM</title>
+    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Support-vector-machines/SVM</link>
+    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Support-vector-machines/SVM</guid>
+    <description><![CDATA[ SSU | [Metoda podpůrných vektorů] Reformulation of the Maximum margin classifier problem into a quadratic program solving (w^*, b^*) = \text{arg} \min_{w \in \mathbb{R}^d, b \in \mathbb{R}} \frac{1}{2}||w||^2 subject to \begin{aligned} \langle x_i, w \rangle+ b \ge +1 \quad i \in \mathcal{I}_+\\ \la... ]]></description>
+    <pubDate>Wed, 11 Feb 2026 10:29:42 GMT</pubDate>
+  </item><item>
+    <title>Structural risk minimization</title>
+    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/Structural-risk-minimization</link>
+    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/Structural-risk-minimization</guid>
+    <description><![CDATA[ SSU Algorithm based on VC Dimension generalization bound. ]]></description>
+    <pubDate>Tue, 10 Feb 2026 22:54:45 GMT</pubDate>
+  </item><item>
+    <title>Fundamental Theorem of PAC Learning</title>
+    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/Fundamental-Theorem-of-PAC-Learning</link>
+    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/Fundamental-Theorem-of-PAC-Learning</guid>
+    <description><![CDATA[ SSU Theorem: For a hypothesis class \mathcal{H} \subset \{-1,+1\}^\mathcal{X}: The following are equivalent: Uniform Law of Large Numbers (ULLN) holds for \mathcal{H} ERM is a successful PAC learner for \mathcal{H} \mathcal{H} has finite VC dimension d_{\text{VC}}(\mathcal{H}) &lt; \infty Sample com... ]]></description>
+    <pubDate>Tue, 10 Feb 2026 22:53:20 GMT</pubDate>
+  </item><item>
+    <title>VC Dimension generalization bound</title>
+    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/VC-Dimension-generalization-bound</link>
+    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/VC-Dimension-generalization-bound</guid>
+    <description><![CDATA[ SSU Theorem (Vapnik): Let \mathcal{H} \subset \{-1,+1\}^\mathcal{X} with VC dimensiond_{\text{VC}}(\mathcal{H}) &lt; \infty. ]]></description>
+    <pubDate>Tue, 10 Feb 2026 22:49:58 GMT</pubDate>
   </item>
     </channel>
   </rss>
