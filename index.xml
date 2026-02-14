@@ -6,6 +6,12 @@
       <description>Last 10 notes on Vojtěch Tóth</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Welcome to My Blog</title>
+    <link>https://vojtechtoth.github.io/</link>
+    <guid>https://vojtechtoth.github.io/</guid>
+    <description><![CDATA[  Welcome Vojtěch Tóth Computer Science Master&#039;s Student About Me My name is Vojtěch Tóth and this is my personal web page. ]]></description>
+    <pubDate>Sat, 14 Feb 2026 22:00:19 GMT</pubDate>
+  </item><item>
     <title>Booklist</title>
     <link>https://vojtechtoth.github.io/Blog/Booklist</link>
     <guid>https://vojtechtoth.github.io/Blog/Booklist</guid>
@@ -23,12 +29,6 @@
     <guid>https://vojtechtoth.github.io/Blog/Posts/Implementing-MSE</guid>
     <description><![CDATA[ Mean square error is defined as \text{MSE}(Y, \hat Y) = \frac{1}{n} \sum^{n}_{i = 1}{(Y_i - \hat Y_i)^2}, where both Y and \hat Y is a 1D array of values. ]]></description>
     <pubDate>Sat, 14 Feb 2026 21:35:26 GMT</pubDate>
-  </item><item>
-    <title>Welcome to My Blog</title>
-    <link>https://vojtechtoth.github.io/</link>
-    <guid>https://vojtechtoth.github.io/</guid>
-    <description><![CDATA[ Welcome My name is Vojtěch Tóth and this is my personal web page. About Me My name is Vojtěch Tóth and this is my personal web page. ]]></description>
-    <pubDate>Sat, 14 Feb 2026 14:59:18 GMT</pubDate>
   </item><item>
     <title>Adagrad</title>
     <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Neural-networks/Adagrad</link>
