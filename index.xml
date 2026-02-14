@@ -6,10 +6,28 @@
       <description>Last 10 notes on Vojtěch Tóth</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Booklist</title>
+    <link>https://vojtechtoth.github.io/Blog/Booklist</link>
+    <guid>https://vojtechtoth.github.io/Blog/Booklist</guid>
+    <description><![CDATA[  Reinforcement Learning:An Introduction (link) Speech and Language Processing (link) An Introduction to Computational Learning Theory (link,lecturer notes) . ]]></description>
+    <pubDate>Sat, 14 Feb 2026 21:44:19 GMT</pubDate>
+  </item><item>
+    <title>Implementing linear layer</title>
+    <link>https://vojtechtoth.github.io/Blog/Posts/Implementing-linear-layer</link>
+    <guid>https://vojtechtoth.github.io/Blog/Posts/Implementing-linear-layer</guid>
+    <description><![CDATA[ Linear layer in artificial neural networks is an implementation of y^T = x^TW + b^T, where y \in \mathbb{R}^{\text{n\_outputs} \times 1} is the layers output, x \in \mathbb{R}^{\text{n\_inputs} \times 1} is an input vector, W \in \mathbb{R}^{\text{n\_inputs} \times \text{n\_outputs}} is the weight m... ]]></description>
+    <pubDate>Sat, 14 Feb 2026 21:39:01 GMT</pubDate>
+  </item><item>
+    <title>Implementing MSE</title>
+    <link>https://vojtechtoth.github.io/Blog/Posts/Implementing-MSE</link>
+    <guid>https://vojtechtoth.github.io/Blog/Posts/Implementing-MSE</guid>
+    <description><![CDATA[ Mean square error is defined as \text{MSE}(Y, \hat Y) = \frac{1}{n} \sum^{n}_{i = 1}{(Y_i - \hat Y_i)^2}, where both Y and \hat Y is a 1D array of values. ]]></description>
+    <pubDate>Sat, 14 Feb 2026 21:35:26 GMT</pubDate>
+  </item><item>
     <title>Welcome to My Blog</title>
     <link>https://vojtechtoth.github.io/</link>
     <guid>https://vojtechtoth.github.io/</guid>
-    <description><![CDATA[ Welcome About Me My name is Vojtěch Tóth and this is my personal web page. ]]></description>
+    <description><![CDATA[ Welcome My name is Vojtěch Tóth and this is my personal web page. About Me My name is Vojtěch Tóth and this is my personal web page. ]]></description>
     <pubDate>Sat, 14 Feb 2026 14:59:18 GMT</pubDate>
   </item><item>
     <title>Adagrad</title>
@@ -47,24 +65,6 @@
     <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Support-vector-machines/SVM</guid>
     <description><![CDATA[ SSU | [Metoda podpůrných vektorů] Reformulation of the Maximum margin classifier problem into a quadratic program solving (w^*, b^*) = \text{arg} \min_{w \in \mathbb{R}^d, b \in \mathbb{R}} \frac{1}{2}||w||^2 subject to \begin{aligned} \langle x_i, w \rangle+ b \ge +1 \quad i \in \mathcal{I}_+\\ \la... ]]></description>
     <pubDate>Wed, 11 Feb 2026 10:29:42 GMT</pubDate>
-  </item><item>
-    <title>Structural risk minimization</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/Structural-risk-minimization</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/Structural-risk-minimization</guid>
-    <description><![CDATA[ SSU Algorithm based on VC Dimension generalization bound. ]]></description>
-    <pubDate>Tue, 10 Feb 2026 22:54:45 GMT</pubDate>
-  </item><item>
-    <title>Fundamental Theorem of PAC Learning</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/Fundamental-Theorem-of-PAC-Learning</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/Fundamental-Theorem-of-PAC-Learning</guid>
-    <description><![CDATA[ SSU Theorem: For a hypothesis class \mathcal{H} \subset \{-1,+1\}^\mathcal{X}: The following are equivalent: Uniform Law of Large Numbers (ULLN) holds for \mathcal{H} ERM is a successful PAC learner for \mathcal{H} \mathcal{H} has finite VC dimension d_{\text{VC}}(\mathcal{H}) &lt; \infty Sample com... ]]></description>
-    <pubDate>Tue, 10 Feb 2026 22:53:20 GMT</pubDate>
-  </item><item>
-    <title>VC Dimension generalization bound</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/VC-Dimension-generalization-bound</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Statistical-learning-theory/VC-Dimension-generalization-bound</guid>
-    <description><![CDATA[ SSU Theorem (Vapnik): Let \mathcal{H} \subset \{-1,+1\}^\mathcal{X} with VC dimensiond_{\text{VC}}(\mathcal{H}) &lt; \infty. ]]></description>
-    <pubDate>Tue, 10 Feb 2026 22:49:58 GMT</pubDate>
   </item>
     </channel>
   </rss>
