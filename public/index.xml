@@ -6,65 +6,65 @@
       <description>Last 10 notes on Vojtěch Tóth</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to My Blog</title>
-    <link>https://vojtechtoth.github.io/</link>
-    <guid>https://vojtechtoth.github.io/</guid>
-    <description><![CDATA[  Welcome Vojtěch Tóth Computer Science Master&#039;s Student About Me My name is Vojtěch Tóth and this is my personal web page. ]]></description>
-    <pubDate>Sat, 14 Feb 2026 22:28:25 GMT</pubDate>
+    <title>Homework for next class</title>
+    <link>https://vojtechtoth.github.io/Vault/Algorithm-theory/Exercices/Homework-for-next-class</link>
+    <guid>https://vojtechtoth.github.io/Vault/Algorithm-theory/Exercices/Homework-for-next-class</guid>
+    <description><![CDATA[ Tutorial 1 1.8) Use the definition to show, that f(n) = 2\cdot 5^n + 1000 \cdot n^4 is f(n) \in \Theta(5^n). ]]></description>
+    <pubDate>Wed, 18 Feb 2026 16:32:58 GMT</pubDate>
   </item><item>
-    <title>Booklist</title>
-    <link>https://vojtechtoth.github.io/Blog/Booklist</link>
-    <guid>https://vojtechtoth.github.io/Blog/Booklist</guid>
-    <description><![CDATA[  Reinforcement Learning:An Introduction (link) Speech and Language Processing (link) An Introduction to Computational Learning Theory (link,lecturer notes) . ]]></description>
-    <pubDate>Sat, 14 Feb 2026 21:44:19 GMT</pubDate>
+    <title>Multi-arm Bandits</title>
+    <link>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Multi-arm-Bandits</link>
+    <guid>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Multi-arm-Bandits</guid>
+    <description><![CDATA[ [n-armed bandits] Inspired by a slot machine with multiple levers, this problem models a situation, where we have n actions to choose from, and want to maximize overall reward over multiple tries. ]]></description>
+    <pubDate>Wed, 18 Feb 2026 11:57:16 GMT</pubDate>
   </item><item>
-    <title>Implementing linear layer</title>
-    <link>https://vojtechtoth.github.io/Blog/Posts/Implementing-linear-layer</link>
-    <guid>https://vojtechtoth.github.io/Blog/Posts/Implementing-linear-layer</guid>
-    <description><![CDATA[ Linear layer in artificial neural networks is an implementation of y^T = x^TW + b^T, where y \in \mathbb{R}^{\text{n\_outputs} \times 1} is the layers output, x \in \mathbb{R}^{\text{n\_inputs} \times 1} is an input vector, W \in \mathbb{R}^{\text{n\_inputs} \times \text{n\_outputs}} is the weight m... ]]></description>
-    <pubDate>Sat, 14 Feb 2026 21:39:01 GMT</pubDate>
+    <title>Robbins-Monro theorem</title>
+    <link>https://vojtechtoth.github.io/Vault/NonFEL/Stochastic-approximation/Robbins-Monro-theorem</link>
+    <guid>https://vojtechtoth.github.io/Vault/NonFEL/Stochastic-approximation/Robbins-Monro-theorem</guid>
+    <description><![CDATA[  sequence of step sizes $αk(a)\alpha_k(a) αk​(a) will allow an iterative estimate to converge to the true value. ]]></description>
+    <pubDate>Wed, 18 Feb 2026 11:15:59 GMT</pubDate>
   </item><item>
-    <title>Implementing MSE</title>
-    <link>https://vojtechtoth.github.io/Blog/Posts/Implementing-MSE</link>
-    <guid>https://vojtechtoth.github.io/Blog/Posts/Implementing-MSE</guid>
-    <description><![CDATA[ Mean square error is defined as \text{MSE}(Y, \hat Y) = \frac{1}{n} \sum^{n}_{i = 1}{(Y_i - \hat Y_i)^2}, where both Y and \hat Y is a 1D array of values. ]]></description>
-    <pubDate>Sat, 14 Feb 2026 21:35:26 GMT</pubDate>
-  </item><item>
-    <title>Adagrad</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Neural-networks/Adagrad</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Neural-networks/Adagrad</guid>
-    <description><![CDATA[ SSU. ]]></description>
-    <pubDate>Sat, 14 Feb 2026 09:40:36 GMT</pubDate>
-  </item><item>
-    <title>Injective, Surjective, Bijective</title>
-    <link>https://vojtechtoth.github.io/Vault/Calculus/Injective,-Surjective,-Bijective</link>
-    <guid>https://vojtechtoth.github.io/Vault/Calculus/Injective,-Surjective,-Bijective</guid>
-    <description><![CDATA[ math [Bijection], [Surjection], [Injection] Function f(x): A \rightarrow B is called surjective, when (\forall y \in B)(\exists x \in A)(f(x) = y) Surjectivity means that “every image y has at least one pre-image x“. ]]></description>
-    <pubDate>Sat, 14 Feb 2026 09:38:24 GMT</pubDate>
-  </item><item>
-    <title>Ranking function</title>
-    <link>https://vojtechtoth.github.io/Vault/Pokro%C4%8Dil%C3%A1-algoritmizace/Combinatorics/Ranking-function</link>
-    <guid>https://vojtechtoth.github.io/Vault/Pokro%C4%8Dil%C3%A1-algoritmizace/Combinatorics/Ranking-function</guid>
-    <description><![CDATA[ Definice math A bijection assigning unique number to each element of set S. ]]></description>
-    <pubDate>Fri, 13 Feb 2026 22:41:16 GMT</pubDate>
-  </item><item>
-    <title>Untitled</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistical-data-analysis/Untitled</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistical-data-analysis/Untitled</guid>
+    <title>Root finding problem</title>
+    <link>https://vojtechtoth.github.io/Vault/NonFEL/Stochastic-approximation/Root-finding-problem</link>
+    <guid>https://vojtechtoth.github.io/Vault/NonFEL/Stochastic-approximation/Root-finding-problem</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Fri, 13 Feb 2026 22:14:31 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 11:12:06 GMT</pubDate>
   </item><item>
-    <title>kernel SVM</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Support-vector-machines/kernel-SVM</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Support-vector-machines/kernel-SVM</guid>
-    <description><![CDATA[ SSU In its base form, SVM creates a linear bound. ]]></description>
-    <pubDate>Wed, 11 Feb 2026 11:18:06 GMT</pubDate>
+    <title>Sharding</title>
+    <link>https://vojtechtoth.github.io/Vault/Databases/Sharding</link>
+    <guid>https://vojtechtoth.github.io/Vault/Databases/Sharding</guid>
+    <description><![CDATA[ NoSQL Horizontal partitioning, where different data are stored on different nodes. Sharding is not the same as partitioning. ]]></description>
+    <pubDate>Tue, 17 Feb 2026 21:44:43 GMT</pubDate>
   </item><item>
-    <title>SVM</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Support-vector-machines/SVM</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistical-machine-learning/Support-vector-machines/SVM</guid>
-    <description><![CDATA[ SSU | [Metoda podpůrných vektorů] Reformulation of the Maximum margin classifier problem into a quadratic program solving (w^*, b^*) = \text{arg} \min_{w \in \mathbb{R}^d, b \in \mathbb{R}} \frac{1}{2}||w||^2 subject to \begin{aligned} \langle x_i, w \rangle+ b \ge +1 \quad i \in \mathcal{I}_+\\ \la... ]]></description>
-    <pubDate>Wed, 11 Feb 2026 10:29:42 GMT</pubDate>
+    <title>Markov&#039;s Inequality</title>
+    <link>https://vojtechtoth.github.io/Vault/Statistics/Markov's-Inequality</link>
+    <guid>https://vojtechtoth.github.io/Vault/Statistics/Markov's-Inequality</guid>
+    <description><![CDATA[ Statistics. ]]></description>
+    <pubDate>Tue, 17 Feb 2026 21:43:48 GMT</pubDate>
+  </item><item>
+    <title>Shapley value</title>
+    <link>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Shapley-value</link>
+    <guid>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Shapley-value</guid>
+    <description><![CDATA[ MAS. ]]></description>
+    <pubDate>Tue, 17 Feb 2026 21:43:03 GMT</pubDate>
+  </item><item>
+    <title>Shapley-Shubik index</title>
+    <link>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Voting-games/Shapley-Shubik-index</link>
+    <guid>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Voting-games/Shapley-Shubik-index</guid>
+    <description><![CDATA[ MAS. ]]></description>
+    <pubDate>Tue, 17 Feb 2026 21:42:26 GMT</pubDate>
+  </item><item>
+    <title>Central limit theorem</title>
+    <link>https://vojtechtoth.github.io/Vault/Statistics/Central-limit-theorem</link>
+    <guid>https://vojtechtoth.github.io/Vault/Statistics/Central-limit-theorem</guid>
+    <description><![CDATA[ SAN Statistics Central Limit Theorem (CLT) Theorem: Let X_1, X_2, X_3, \ldots be a sequence of independent and identically distributed (i.i.d.) random variables with mean \mu = E[X_i] and finite variance \sigma^2 = \text{Var}(X_i) &gt; 0. ]]></description>
+    <pubDate>Tue, 17 Feb 2026 21:41:59 GMT</pubDate>
+  </item><item>
+    <title>Banzhaf index</title>
+    <link>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Voting-games/Banzhaf-index</link>
+    <guid>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Voting-games/Banzhaf-index</guid>
+    <description><![CDATA[ MAS normalized Banzhaf index. ]]></description>
+    <pubDate>Tue, 17 Feb 2026 21:41:26 GMT</pubDate>
   </item>
     </channel>
   </rss>
