@@ -11,6 +11,9 @@
     <loc>https://vojtechtoth.github.io/Blog/Posts/Implementing-linear-layer</loc>
     <lastmod>2026-02-14T21:39:01.074Z</lastmod>
   </url><url>
+    <loc>https://vojtechtoth.github.io/Blog/Posts/Reinforcement-Learning,-An-Introduction---exercises-from-chapter-2</loc>
+    <lastmod>2026-02-22T23:14:42.872Z</lastmod>
+  </url><url>
     <loc>https://vojtechtoth.github.io/Blog/Posts/Training-a-neural-network</loc>
     <lastmod>2026-02-08T23:46:31.127Z</lastmod>
   </url><url>
@@ -163,6 +166,9 @@
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Empirical-risk-minimization</loc>
     <lastmod>2026-01-28T13:05:12.592Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Gradient-bandits</loc>
+    <lastmod>2026-02-20T18:51:34.309Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Gradient-descent</loc>
     <lastmod>2026-01-30T15:29:09.743Z</lastmod>
@@ -401,8 +407,14 @@
     <loc>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Random-process</loc>
     <lastmod>2026-02-16T15:21:16.073Z</lastmod>
   </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Action-Value-Methods</loc>
+    <lastmod>2026-02-20T18:26:26.157Z</lastmod>
+  </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Multi-arm-Bandits</loc>
-    <lastmod>2026-02-18T11:57:16.774Z</lastmod>
+    <lastmod>2026-02-20T19:19:16.434Z</lastmod>
+  </url><url>
+    <loc>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Upper-Confidence-Bound-Action-Selection</loc>
+    <lastmod>2026-02-20T21:40:08.904Z</lastmod>
   </url><url>
     <loc>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Reinforcement-learning</loc>
     <lastmod>2026-02-17T21:05:57.287Z</lastmod>
