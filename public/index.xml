@@ -6,17 +6,41 @@
       <description>Last 10 notes on Vojtěch Tóth</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Homework for next class</title>
-    <link>https://vojtechtoth.github.io/Vault/Algorithm-theory/Exercices/Homework-for-next-class</link>
-    <guid>https://vojtechtoth.github.io/Vault/Algorithm-theory/Exercices/Homework-for-next-class</guid>
-    <description><![CDATA[ Tutorial 1 1.8) Use the definition to show, that f(n) = 2\cdot 5^n + 1000 \cdot n^4 is f(n) \in \Theta(5^n). ]]></description>
-    <pubDate>Wed, 18 Feb 2026 16:32:58 GMT</pubDate>
+    <title>Reinforcement Learning, An Introduction - exercises from chapter 2</title>
+    <link>https://vojtechtoth.github.io/Blog/Posts/Reinforcement-Learning,-An-Introduction---exercises-from-chapter-2</link>
+    <guid>https://vojtechtoth.github.io/Blog/Posts/Reinforcement-Learning,-An-Introduction---exercises-from-chapter-2</guid>
+    <description><![CDATA[ What follows are my attempts at solving exercises at the end of chapter 2 from Reinforcement Learning: An Introduction. ]]></description>
+    <pubDate>Sun, 22 Feb 2026 23:14:42 GMT</pubDate>
+  </item><item>
+    <title>Upper-Confidence-Bound Action Selection</title>
+    <link>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Upper-Confidence-Bound-Action-Selection</link>
+    <guid>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Upper-Confidence-Bound-Action-Selection</guid>
+    <description><![CDATA[ Action-Value Methods A_t = \underset{a}{\text{arg max}} \left[ Q_{t}(a) + c\sqrt{\frac{\ln t}{N_{t}(a)}} \right]. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 21:40:08 GMT</pubDate>
   </item><item>
     <title>Multi-arm Bandits</title>
     <link>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Multi-arm-Bandits</link>
     <guid>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Multi-arm-Bandits</guid>
     <description><![CDATA[ [n-armed bandits] Inspired by a slot machine with multiple levers, this problem models a situation, where we have n actions to choose from, and want to maximize overall reward over multiple tries. ]]></description>
-    <pubDate>Wed, 18 Feb 2026 11:57:16 GMT</pubDate>
+    <pubDate>Fri, 20 Feb 2026 19:19:16 GMT</pubDate>
+  </item><item>
+    <title>Gradient bandits</title>
+    <link>https://vojtechtoth.github.io/Vault/Gradient-bandits</link>
+    <guid>https://vojtechtoth.github.io/Vault/Gradient-bandits</guid>
+    <description><![CDATA[ \Pr(A_t = a) = \frac{e^{H_t(a)}}{\sum^{n}_{b=1}{e^{H_t(a)}}} = \pi_{t}(a) Learning these probability distributions is done with algorithm based on Stochastic Gradient Descent. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 18:51:34 GMT</pubDate>
+  </item><item>
+    <title>Action-Value Methods</title>
+    <link>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Action-Value-Methods</link>
+    <guid>https://vojtechtoth.github.io/Vault/Symbolic-machine-learning/Reinforcement-learning/Bandits/Action-Value-Methods</guid>
+    <description><![CDATA[ We denote the true (actual) value of action a as q(a), and the estimated value on the t-th time step as Q_t(a). ]]></description>
+    <pubDate>Fri, 20 Feb 2026 18:26:26 GMT</pubDate>
+  </item><item>
+    <title>Homework for next class</title>
+    <link>https://vojtechtoth.github.io/Vault/Algorithm-theory/Exercices/Homework-for-next-class</link>
+    <guid>https://vojtechtoth.github.io/Vault/Algorithm-theory/Exercices/Homework-for-next-class</guid>
+    <description><![CDATA[ Tutorial 1 1.8) Use the definition to show, that f(n) = 2\cdot 5^n + 1000 \cdot n^4 is f(n) \in \Theta(5^n). ]]></description>
+    <pubDate>Wed, 18 Feb 2026 16:32:58 GMT</pubDate>
   </item><item>
     <title>Robbins-Monro theorem</title>
     <link>https://vojtechtoth.github.io/Vault/NonFEL/Stochastic-approximation/Robbins-Monro-theorem</link>
@@ -41,30 +65,6 @@
     <guid>https://vojtechtoth.github.io/Vault/Statistics/Markov's-Inequality</guid>
     <description><![CDATA[ Statistics. ]]></description>
     <pubDate>Tue, 17 Feb 2026 21:43:48 GMT</pubDate>
-  </item><item>
-    <title>Shapley value</title>
-    <link>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Shapley-value</link>
-    <guid>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Shapley-value</guid>
-    <description><![CDATA[ MAS. ]]></description>
-    <pubDate>Tue, 17 Feb 2026 21:43:03 GMT</pubDate>
-  </item><item>
-    <title>Shapley-Shubik index</title>
-    <link>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Voting-games/Shapley-Shubik-index</link>
-    <guid>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Voting-games/Shapley-Shubik-index</guid>
-    <description><![CDATA[ MAS. ]]></description>
-    <pubDate>Tue, 17 Feb 2026 21:42:26 GMT</pubDate>
-  </item><item>
-    <title>Central limit theorem</title>
-    <link>https://vojtechtoth.github.io/Vault/Statistics/Central-limit-theorem</link>
-    <guid>https://vojtechtoth.github.io/Vault/Statistics/Central-limit-theorem</guid>
-    <description><![CDATA[ SAN Statistics Central Limit Theorem (CLT) Theorem: Let X_1, X_2, X_3, \ldots be a sequence of independent and identically distributed (i.i.d.) random variables with mean \mu = E[X_i] and finite variance \sigma^2 = \text{Var}(X_i) &gt; 0. ]]></description>
-    <pubDate>Tue, 17 Feb 2026 21:41:59 GMT</pubDate>
-  </item><item>
-    <title>Banzhaf index</title>
-    <link>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Voting-games/Banzhaf-index</link>
-    <guid>https://vojtechtoth.github.io/Vault/Computational-game-theory/Cooperation-games/Voting-games/Banzhaf-index</guid>
-    <description><![CDATA[ MAS normalized Banzhaf index. ]]></description>
-    <pubDate>Tue, 17 Feb 2026 21:41:26 GMT</pubDate>
   </item>
     </channel>
   </rss>
